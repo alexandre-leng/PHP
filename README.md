@@ -1,2 +1,2 @@
 # PHP
-Mes projets PHP
+Mes projets PHP, exercices et autoformation.
